@@ -1,8 +1,15 @@
 Selling your catalog pays the most cash today, but the rights never come back. An advance pays less upfront, but you keep the asset and its income after recoupment. If you are still signed and unrecouped, a buyout may be the better route. The right choice depends on how much cash you need, how old and stable your income is and what you want to own in ten years.
 
+**Key takeaways**
+
+- A sale is usually priced at about 4 to 12 times your annual net income, depending on the age of the catalog. The rights do not come back.
+- An advance is usually a fraction of that, often about 1 to 3 times annual income, but you keep ownership.
+- A distribution licence advance returns the rights to you after a fixed term of 5 to 25 years.
+- If you are signed and unrecouped, a financed buyout can make you independent again.
+
 This guide compares the options with simple numbers so you can see what each one really costs you.
 
-## The five ways to raise money on a catalog
+## What are the ways to raise money on a music catalog?
 
 | Option | Cash today | What you keep | When it ends | Usually fits |
 | --- | --- | --- | --- | --- |
@@ -14,14 +21,14 @@ This guide compares the options with simple numbers so you can see what each one
 
 Distributors also offer small automated advances on streaming income. We cover those in a separate guide on [distributor advances](/insights/distributor-advances).
 
-## How much each option pays, in rules of thumb
+## How much does a sale pay compared with an advance?
 
 These ranges are public reference points, not offers. Real numbers depend on your statements, contracts and the market at the time.
 
 - **Sale:** buyers price a catalog as a multiple of net annual income. Our [value calculator](/music-catalog-value-calculator?mode=buyout) uses indicative bands of about 4 to 6 times for catalogs under three years old, 5 to 10 times for three to ten years and 8 to 12 times for older catalogs. Public guides put smaller or newer independent catalogs at about 4 to 8 times and blue chip legacy catalogs at 15 to 20 times or more.
 - **Advance:** one public comparison puts royalty advances at roughly 1 to 3 times annual earnings. With a licence advance the term matters: a longer term usually supports a larger amount. You can see indicative amounts by term in the [advance mode of the calculator](/music-catalog-value-calculator?mode=advance).
 
-## A worked example
+## Example: selling or licensing a catalog that earns 50,000 a year
 
 Imagine a catalog that earns 50,000 a year in net income, is eight years old and has stable streams. These figures are illustrative.
 
@@ -34,7 +41,7 @@ Imagine a catalog that earns 50,000 a year in net income, is eight years old and
 
 The sale looks bigger, and often it is. But look at what the buyer is paying for. At 7 times income, the buyer pays seven years of today's income upfront. If you believe your catalog will keep earning for much longer than that, keeping it is worth more to you than a sale. If you need a large amount now, or you think income will fall, the sale may be the better deal.
 
-## Which option fits your situation
+## Which option is right for you?
 
 **You are signed to a label or distributor and still unrecouped.** Most of your income goes to recoup the balance, so you see little of it. A financed [unrecouped buyout](/unrecouped-advance-buyout) can pay off that balance so you leave the deal and own your catalog again. Our step-by-step plan for [leaving a label deal while unrecouped](/insights/leave-label-deal-unrecouped) explains how it works.
 
@@ -69,6 +76,14 @@ Usually yes. A licence advance or royalty advance does not stop you from selling
 ### Do I have to repay an advance if my music earns less?
 
 In most recoupable advances, no: the money is recovered only from the income covered by the agreement. Some products are loans in practice, so read the recourse clause. Our guide on [types of music advances](/insights/types-of-music-advances) explains the difference.
+
+### Can I get an advance without selling my masters?
+
+Yes. A distribution licence advance and most royalty advances leave ownership with you. With a licence, the rights return to you when the fixed term ends.
+
+### Is it better to sell my catalog or license it?
+
+A sale pays more today and ends your involvement. A licence pays less but the catalog comes back to you and keeps earning. If you expect your music to keep earning for many years, licensing usually keeps more value for you.
 
 ### How quickly can each option close?
 

@@ -1,8 +1,15 @@
 Yes, you can often leave a label deal even if you have not recouped your advance. An unrecouped balance is not a debt you repay from your own pocket: it is an account the label recovers from your royalties. If someone pays that balance, or a negotiated amount, you can become independent again and take back control of your catalog. In many cases, depending on the contract and what your songs earn, there is even cash left over for you.
 
+**Key takeaways**
+
+- Being unrecouped does not stop you from leaving, but leaving early needs an agreement with your label.
+- An unrecouped balance is recovered from royalties, not repaid from your pocket.
+- A funder can pay a negotiated amount to close the balance, so you become independent again and own 100% of your catalog for an agreed period.
+- Depending on the contract and what your songs earn, the deal can also leave cash for you.
+
 This guide explains why you see so little money, why a label might accept an exit and how to prepare one step by step.
 
-## Why you see almost no money
+## Why don't unrecouped artists get paid?
 
 Your royalty share is usually a small percentage of what the label earns from your music. An illustrative example:
 
@@ -13,19 +20,19 @@ Your royalty share is usually a small percentage of what the label earns from yo
 
 Meanwhile the label keeps the full 100,000 every year. That is why some artists whose songs earn real money still receive nothing. Read [what unrecouped means](/insights/what-does-unrecouped-mean) for the full mechanics.
 
-## Why a label might accept an exit
+## Will my label let me go if I am unrecouped?
 
 For the label, your unrecouped balance is money it expects to recover slowly, with no certainty about when. A serious proposal offers something different: a fixed amount today. Depending on the case, that can be more attractive than waiting, especially if your releases are no longer a priority for the label's team or the contract is close to its end.
 
 There is no guarantee the label will agree. It depends on the contract, the balance, what your recordings earn and the label's strategy. But many artists never raise it because they do not know it is possible.
 
-## How a financed exit works
+## How does a financed exit from a record deal work?
 
 A funder pays the label or distributor the negotiated amount to close your balance. In return, for an agreed period, it receives a share of the income from those recordings or other rights agreed in the deal. You leave the contract, become independent again and, for that period, own 100% of your catalog. If the catalog earns enough, the deal can also leave you with cash.
 
 Every structure is negotiated case by case. At BeatBridge we review your contract and statements, find the right funder in our network and negotiate with the label. See our [unrecouped deal buyout](/unrecouped-advance-buyout) page.
 
-## The plan, step by step
+## How to leave a label deal when you are unrecouped: step by step
 
 1. **Gather the paperwork.** The signed contract with every amendment and side letter, your statements for the last two or three years and any correspondence about options, delivery or releases.
 2. **Work out your real balance.** Check which costs were charged, whether albums are cross-collateralized and whether any charge looks wrong. Sometimes an audit reduces the balance.
@@ -61,6 +68,14 @@ For the full legal picture, with all five possible routes, read [how to get out 
 > Unrecouped and want out? Send us your contract and latest statements. We will tell you, confidentially, whether a financed exit is viable in your case. [Book a call](/contact#book).
 
 ## Frequently asked questions
+
+### Can I leave my record label if I am unrecouped?
+
+Often yes, but not on your own. You need an agreement with the label, usually built around a negotiated payment that closes the balance. A funder can provide that payment in exchange for a share of the catalog's income for an agreed period.
+
+### Do I owe my label money if I am unrecouped?
+
+Not as a personal debt in most deals. The balance is recovered from your royalties. If you never recoup, the label usually just keeps collecting. Check for any clause that makes part of the advance repayable.
 
 ### Do I have to pay back the advance if I leave?
 

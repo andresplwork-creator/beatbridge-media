@@ -1,10 +1,17 @@
 A distributor advance is upfront money your distributor, or a funder it partners with, pays against the streaming royalties it expects to collect for you. In 2026 many distributors offer them, often in a few clicks. They are fast and usually small, and while they are active you are tied to that distributor. If you own an established back catalog, a fixed-term licence advance or a specialist royalty advance may pay more and leave you more freedom.
 
-## Why every distributor now offers advances
+**Key takeaways**
+
+- TuneCore, Amuse, UnitedMasters and several other distributors offer advances on streaming royalties in 2026.
+- They are fast and usually sized on recent streams through that platform only.
+- While the advance is active you are usually tied to that distributor, and some programs take control of your account.
+- Owners of an established back catalog can often get more, with more freedom, from a fixed-term licence advance or a specialist royalty advance.
+
+## Why do distributors offer advances?
 
 Distributors already see your streaming data, so they can size an advance quickly and recover it from royalties that pass through their own system. For the distributor, an advance also keeps you on the platform: you cannot easily move your catalog while the balance is open. That is why automated advances have spread from a few specialists to most of the market.
 
-## What the main programs say publicly
+## Which distributors offer advances in 2026?
 
 The table below covers what each company states publicly. Terms change often and most do not publish fees, so check the current terms with each provider before applying.
 
@@ -15,20 +22,24 @@ The table below covers what each company states publicly. Terms change often and
 | UnitedMasters (with beatBread) | In 2021 it announced advances from $1,000 up to $1 million for qualifying artists, sized from streaming and social data. | The term, the share of income committed and what happens at the end |
 | Others | AWAL, ONErpm, Stem, Too Lost, Horus Music and Venice Music are reported to offer advances or funding to eligible artists. | Their terms are not published in detail: ask for them in writing |
 
-## What they have in common
+## How do distributor advances work?
 
 - **They are sized on recent streams.** Most offers use the last months or years of streaming income on that platform, so a catalog spread across several distributors may get a smaller number than it deserves.
 - **They are recovered from your royalties at source.** The distributor keeps all or part of your income until the advance and its fee are covered.
 - **They tie you to the platform.** You usually cannot move your catalog, and sometimes cannot take releases down, until the advance is recouped.
 - **The cost is a fee, not interest.** A flat fee on a short advance can be expensive in annual terms. Compare the total you give up with the money you receive.
 
-## When a distributor advance makes sense
+## Is a distributor advance worth it?
+
+It can be, in the right situation:
 
 - You need a modest amount quickly, for example to fund a release or a tour.
 - Your catalog is young and most of your income comes through one distributor.
 - You are happy to stay with that distributor for the period of the advance.
 
-## When another structure may fit better
+It is usually not the best deal if your catalog is established, earns through several channels or you want to keep the freedom to move.
+
+## What are the alternatives to a distributor advance?
 
 | Your situation | Often a better fit | Why |
 | --- | --- | --- |
@@ -54,6 +65,10 @@ Our guide on [types of music advances](/insights/types-of-music-advances) explai
 > Have an offer from your distributor? Send it to us before you accept. We will compare it with a licence advance and a royalty advance for your catalog, confidentially. [Book a call](/contact#book).
 
 ## Frequently asked questions
+
+### Is a distributor advance worth it?
+
+It can be worth it if you need a modest amount quickly and plan to stay with that distributor. Compare the fee and the share of income withheld with what you receive, and compare the offer with a licence or royalty advance before accepting.
 
 ### Do I keep my masters with a distributor advance?
 

@@ -1,10 +1,17 @@
-Un adelanto de distribuidora es dinero que tu distribuidora, o un financiador con el que trabaja, te paga por adelantado a cuenta de las regalías de streaming que espera cobrar por ti. En 2026 muchas distribuidoras los ofrecen, a menudo en un par de clics. Son rápidos y normalmente pequeños, y mientras están activos te atan a esa distribuidora. Si tienes un catálogo con años de recorrido, un adelanto por licencia a plazo fijo o un adelanto de regalías de un financiador especializado puede pagarte más y dejarte más libertad.
+Un adelanto (o anticipo) de distribuidora es dinero que tu distribuidora, o un financiador con el que trabaja, te paga por adelantado a cuenta de las regalías de streaming que espera cobrar por ti. En 2026 muchas distribuidoras los ofrecen, a menudo en un par de clics. Son rápidos y normalmente pequeños, y mientras están activos te atan a esa distribuidora. Si tienes un catálogo con años de recorrido, un adelanto por licencia a plazo fijo o un adelanto de regalías de un financiador especializado puede pagarte más y dejarte más libertad.
 
-## Por qué ahora todas las distribuidoras dan adelantos
+**En resumen**
+
+- TuneCore, Amuse, UnitedMasters y otras distribuidoras ofrecen en 2026 adelantos sobre las regalías de streaming.
+- Son rápidos y suelen calcularse solo con las escuchas recientes en esa plataforma.
+- Mientras el adelanto está activo sueles quedar atado a esa distribuidora, y algunos programas toman el control de tu cuenta.
+- Si tienes un catálogo consolidado, a menudo consigues más, y con más libertad, con un adelanto por licencia a plazo fijo o un adelanto de regalías de un financiador especializado.
+
+## ¿Por qué las distribuidoras dan adelantos?
 
 La distribuidora ya ve tus datos de streaming, así que puede calcular un adelanto en poco tiempo y recuperarlo con las regalías que pasan por su propio sistema. Además, el adelanto te retiene en la plataforma: no puedes llevarte el catálogo fácilmente mientras haya saldo pendiente. Por eso los adelantos automáticos han pasado de unos pocos especialistas a casi todo el mercado.
 
-## Qué dicen públicamente los principales programas
+## ¿Qué distribuidoras dan adelantos en 2026?
 
 La tabla recoge lo que cada empresa publica. Las condiciones cambian a menudo y la mayoría no publica sus comisiones, así que confirma las condiciones vigentes con cada una antes de solicitarlo.
 
@@ -15,20 +22,24 @@ La tabla recoge lo que cada empresa publica. Las condiciones cambian a menudo y 
 | UnitedMasters (con beatBread) | En 2021 anunció adelantos desde 1.000 hasta 1 millón de dólares para artistas que cumplan los requisitos, calculados con datos de streaming y redes sociales. | El plazo, la parte de ingresos comprometida y qué pasa al final |
 | Otras | Según publicaciones del sector, AWAL, ONErpm, Stem, Too Lost, Horus Music y Venice Music ofrecen adelantos o financiación a artistas que cumplan sus requisitos. | No publican sus condiciones en detalle: pídelas por escrito |
 
-## Lo que tienen en común
+## ¿Cómo funcionan los adelantos de distribuidora?
 
 - **Se calculan con tus escuchas recientes.** La mayoría usa los últimos meses o años de ingresos de streaming en esa plataforma, así que un catálogo repartido entre varias distribuidoras puede recibir una cifra menor de la que merece.
 - **Se recuperan en origen con tus regalías.** La distribuidora se queda con todos o parte de tus ingresos hasta cubrir el adelanto y la comisión.
 - **Te atan a la plataforma.** Normalmente no puedes cambiar de distribuidora, y a veces ni retirar lanzamientos, hasta recuperar el adelanto.
 - **El coste es una comisión, no un interés.** Una comisión fija sobre un adelanto corto puede salir cara si la calculas en términos anuales. Compara lo que dejas de cobrar con el dinero que recibes.
 
-## Cuándo tiene sentido un adelanto de distribuidora
+## ¿Merece la pena un adelanto de distribuidora?
+
+Puede merecer la pena en estos casos:
 
 - Necesitas una cantidad moderada rápido, por ejemplo para financiar un lanzamiento o una gira.
 - Tu catálogo es reciente y casi todos tus ingresos llegan por una sola distribuidora.
 - No te importa quedarte con esa distribuidora mientras dure el adelanto.
 
-## Cuándo puede encajar mejor otra estructura
+Normalmente no es la mejor opción si tu catálogo está consolidado, cobras por varias vías o quieres libertad para cambiar de distribuidora.
+
+## ¿Qué alternativas hay a un adelanto de distribuidora?
 
 | Tu situación | Suele encajar mejor | Por qué |
 | --- | --- | --- |
@@ -54,6 +65,10 @@ Nuestra guía de [tipos de adelantos en la música](/es/recursos/types-of-music-
 > ¿Tienes una oferta de tu distribuidora? Envíanosla antes de aceptarla. La comparamos con un adelanto por licencia y un adelanto de regalías para tu catálogo, con total confidencialidad. [Reserva una llamada](/es/contacto#book).
 
 ## Preguntas frecuentes
+
+### ¿Merece la pena un adelanto de distribuidora?
+
+Puede merecer la pena si necesitas poco dinero rápido y piensas quedarte con esa distribuidora. Compara la comisión y la parte de ingresos que te retienen con lo que recibes, y compara la oferta con un adelanto por licencia o de regalías antes de aceptarla.
 
 ### ¿Conservo mis másters con un adelanto de distribuidora?
 

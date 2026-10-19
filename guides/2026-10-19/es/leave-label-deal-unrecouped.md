@@ -1,4 +1,11 @@
-Sí, muchas veces se puede salir de un contrato con tu disquera aunque no hayas recuperado el adelanto. El saldo pendiente no es una deuda que tengas que pagar de tu bolsillo: es una cuenta que el sello cobra con tus regalías. Si alguien paga ese saldo, o una cantidad negociada, puedes volver a ser independiente y recuperar el control de tu catálogo. En muchos casos, según el contrato y lo que generan tus canciones, incluso queda dinero para ti.
+Sí, muchas veces se puede salir de un contrato con tu disquera (o sello discográfico) aunque no hayas recuperado el adelanto. El saldo pendiente no es una deuda que tengas que pagar de tu bolsillo: es una cuenta que el sello cobra con tus regalías. Si alguien paga ese saldo, o una cantidad negociada, puedes volver a ser independiente y recuperar el control de tu catálogo. En muchos casos, según el contrato y lo que generan tus canciones, incluso queda dinero para ti.
+
+**En resumen**
+
+- Estar unrecouped no te impide salir, pero salir antes de tiempo exige un acuerdo con tu sello.
+- El saldo pendiente se recupera con tus regalías, no se devuelve de tu bolsillo.
+- Un financiador puede pagar una cantidad negociada para cerrar el saldo: vuelves a ser independiente y eres dueño del 100% de tu catálogo durante un periodo acordado.
+- Según el contrato y lo que generan tus canciones, la operación puede dejarte además dinero.
 
 Esta guía explica por qué casi no cobras, por qué el sello podría aceptar una salida y cómo se prepara paso a paso.
 
@@ -15,7 +22,7 @@ En la industria se mezclan palabras en inglés y en español. Estas son las que 
 
 Si quieres el detalle, lee [qué significa estar unrecouped](/es/recursos/what-does-unrecouped-mean).
 
-## Por qué casi no ves dinero
+## ¿Por qué no cobras regalías si estás unrecouped?
 
 Tu parte de las regalías suele ser un porcentaje pequeño de lo que factura el sello con tu música. Un ejemplo ilustrativo:
 
@@ -26,19 +33,19 @@ Tu parte de las regalías suele ser un porcentaje pequeño de lo que factura el 
 
 Mientras tanto, el sello cobra los 100.000 enteros cada año. Por eso hay artistas cuyas canciones generan mucho dinero y que, aun así, no reciben nada.
 
-## Por qué el sello podría aceptar una salida
+## ¿Me dejará ir mi disquera si no he recuperado el adelanto?
 
 Para el sello, tu saldo unrecouped es dinero que espera recuperar poco a poco, sin saber cuánto tardará. Una propuesta seria le ofrece algo distinto: una cantidad cierta hoy. Según el caso, eso puede interesarle más que esperar, sobre todo si tus lanzamientos ya no son prioridad para su equipo o si el contrato se acerca a su fin.
 
 No hay ninguna garantía de que acepte. Depende del contrato, del saldo, de lo que generan tus grabaciones y de la estrategia del sello. Pero muchos artistas ni siquiera lo plantean porque no saben que es posible.
 
-## Cómo funciona una salida financiada
+## ¿Cómo funciona una salida financiada de un contrato discográfico?
 
 Un financiador paga al sello o a la distribuidora la cantidad que se negocie para cerrar tu saldo. A cambio, durante un periodo acordado, recibe una parte de los ingresos de esas grabaciones o los derechos que se pacten. Tú sales del contrato, eres independiente otra vez y, durante ese periodo, recuperas el 100% de tu catálogo. Si el catálogo genera lo suficiente, la operación puede dejarte además dinero en efectivo.
 
 Cada estructura se negocia caso por caso. En BeatBridge revisamos tu contrato y tus liquidaciones, buscamos el financiador adecuado en nuestra red y negociamos con el sello. Puedes verlo en nuestra página de [salida de contratos unrecouped](/es/salir-de-contrato-discografica).
 
-## El plan, paso a paso
+## Cómo salir de tu contrato si estás unrecouped: paso a paso
 
 1. **Reúne los papeles.** El contrato firmado con todos sus anexos y cartas, las liquidaciones de los últimos dos o tres años y cualquier correo sobre opciones, entregas o lanzamientos.
 2. **Calcula tu saldo real.** Revisa qué costes te han cargado, si hay cruce de cuentas entre discos y si algún cargo no corresponde. A veces una auditoría reduce el saldo.
@@ -74,6 +81,14 @@ Para el panorama legal completo, con las cinco vías posibles, lee [cómo salir 
 > ¿Estás unrecouped y quieres salir? Envíanos tu contrato y tus últimas liquidaciones. Te decimos, con total confidencialidad, si una salida financiada es viable en tu caso. [Reserva una llamada](/es/contacto#book).
 
 ## Preguntas frecuentes
+
+### ¿Puedo romper mi contrato con la disquera si no he recuperado el adelanto?
+
+A menudo sí, pero no de forma unilateral. Necesitas un acuerdo con el sello, normalmente con un pago negociado que cierre el saldo. Un financiador puede aportar ese pago a cambio de una parte de los ingresos del catálogo durante un periodo acordado.
+
+### ¿Le debo dinero a mi disquera si estoy unrecouped?
+
+En la mayoría de contratos no es una deuda personal. El saldo se recupera con tus regalías y, si nunca se recupera, el sello normalmente sigue cobrando. Revisa si alguna cláusula hace devolvible una parte del adelanto.
 
 ### ¿Tengo que devolver el adelanto si me voy?
 
